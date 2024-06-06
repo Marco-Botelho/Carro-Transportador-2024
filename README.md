@@ -13,4 +13,4 @@ Nosso grupo de engenharia da FATEC está colaborando com a Aernnova para desenvo
 </p>
 <table>
 <tr>
-Marco Botelho- Pedro Augusto- Mateus Santos Oliveira- Cleison santos- João Pedro dos Santos Ortiz
+Marco Botelho- Pedro Augusto- Mateus Santos Oliveira- Cleison Santos- João Pedro dos Santos Ortiz
