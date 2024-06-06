@@ -7,10 +7,11 @@
 ![image](https://github.com/Marco-Botelho/Carro-Transportador-2024/assets/101574709/de140ab7-d674-477e-ac7e-564439af9a86)
 
 <a href="#objetivo">Descrição</a> •  
-Nosso grupo de engenharia da FATEC está colaborando com a Aernnova para desenvolver um carro transportador personalizado. Utilizando nossa expertise acadêmica e trabalhando em estreita colaboração com a equipe da Aernnova, estamos projetando um veículo que atenda às necessidades específicas da empresa. Nosso objetivo é fornecer uma solução de transporte confiável e eficiente, adaptada às demandas do setor aeroespacial. Estamos comprometidos em entregar um produto de alta qualidade que atenda aos padrões exigentes da Aernnova e contribua para o sucesso de seus projetos.
+Nosso grupo está colaborando com a Aernnova para desenvolver um carro transportador personalizado. Utilizando nossa expertise acadêmica e trabalhando em estreita colaboração com a equipe da Aernnova, estamos projetando um veículo que atenda às necessidades específicas da empresa. Nosso objetivo é fornecer uma solução de transporte confiável e eficiente, adaptada às demandas do setor aeroespacial. Estamos comprometidos em entregar um produto de alta qualidade que atenda aos padrões exigentes da Aernnova e contribua para o sucesso de seus projetos.
 
 <a href="#autor">Autores</a> •
 </p>
 <table>
 <tr>
 Marco Botelho- Pedro Augusto- Mateus Santos Oliveira- Cleison Santos- João Pedro dos Santos Ortiz
+
